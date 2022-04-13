@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "287070901520",
+    "project_id": "instaclonejava-bd32d",
+    "storage_bucket": "instaclonejava-bd32d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287070901520:android:4acf52b5427ccd3adfc195",
+        "android_client_info": {
+          "package_name": "com.adem.instagramclone_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287070901520-g7df1o1ndeg03c5m4jjugs4r5sgsa6bl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFASsFB3Gk9OU0fEwWPrjiBfZga0qDqg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287070901520-g7df1o1ndeg03c5m4jjugs4r5sgsa6bl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287070901520:android:11f55b986ecadc95dfc195",
+        "android_client_info": {
+          "package_name": "com.adem.instagramclonejava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287070901520-g7df1o1ndeg03c5m4jjugs4r5sgsa6bl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFASsFB3Gk9OU0fEwWPrjiBfZga0qDqg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287070901520-g7df1o1ndeg03c5m4jjugs4r5sgsa6bl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
